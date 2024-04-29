@@ -1,0 +1,5 @@
+password,expected
+123,password demasiado corto
+12345,********
+1234567890,************
+12345678901234567890123456789012345678901,password demasiado largo
